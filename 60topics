@@ -1,0 +1,312 @@
+Appendix 1: 60 Topics of 2018
+Structural Topic Model with 50 topics for the 2018 corpus
+....................................................................
+> summary(stm.documents.2018.k60.trim)
+init.type = “Spectral”
+seed: 8522111
+37 iterations
+....................................................................
+A topic model with 60 topics, 675 documents and a 10209 word dictionary.
+....................................................................
+Topic 1 Top Words:
+ 	 Highest Prob: earnings, reporting, department, accounting, auditing, investors, msc 
+ 	 FREX: auditing, accruals, earnings, liabilities, debt, securities, sec 
+ 	 Lift: dechow, accrual, accruals, gaap, receivable, ifrs, watts 
+ 	 Score: accruals, dechow, gaap, accrual, compustat, lev, winsorized 
+Topic 2 Top Words:
+ 	 Highest Prob: gaat, maken, vragen, mee, willen, verschillende, manier 
+ 	 FREX: gemaakt, algemeen, manier, huidige, zitten, plaats, partijen 
+ 	 Lift: plaats, proberen, betreft, blijven, daarbij, houdt, gemaakt 
+ 	 Score: maken, zien, weet, belangrijk, nodig, krijgen, mee 
+Topic 3 Top Words:
+ Highest Prob: psychology, personality, performance, applied, feel, organizational, task 
+ 	 FREX: personality, male, female, disagree, likert, gender, students 
+ 	 Lift: knippenberg, locke, stam, psychologically, mentally, selfefficacy, deci 
+ 	 Score: knippenberg, stam, locke, arousal, instruction, mentally, mediation 
+Topic 4 Top Words:
+ 	 Highest Prob: months, stocks, weighted, portfolio, finance, periods, trading 
+ 	 FREX: stocks, fama, weighted, french, hedge, trading, monthly 
+ 	 Lift: equities, hml, smb, carhart, sharpe, amex, kenneth 
+ 	 Score: carhart, equities, hml, sharpe, capm, premia, fama 
+Topic 5 Top Words:
+ 	 Highest Prob: solar, consumption, supply, renewable, efficiency, vehicles, technology 
+ 	 FREX: solar, grid, renewable, temperature, fuel, vehicles, electric 
+ 	 Lift: grids, kwh, batteries, thermal, brandt, tobias, battery 
+ 	 Score: grids, batteries, solar, grid, kwh, battery, thermal 
+Topic 6 Top Words:
+ 	 Highest Prob: platforms, crowd, internet, campaigns, platform, people, https 
+ 	 FREX: crowdfunding, crowd, campaigns, kickstarter, mollick, belleflamme, platforms 
+ 	 Lift: mollick, kickstarter, belleflamme, funders, backers, schwienbacher, gerber 
+ 	 Score: belleflamme, mollick, kickstarter, schwienbacher, backers, gerber, funders 
+Topic 7 Top Words:
+ Highest Prob: merger, acquirer, acquiring, acquirers, takeovers, mergers, acquisitions 
+ 	 FREX: acquirer, acquirers, takeovers, hubris, takeover, moeller, merger 
+ 	 Lift: martynova, netter, harford, schlingemann, masulis, destroys, moeller 
+ 	 Score: acquirers, moeller, acquirer, schlingemann, stulz, takeovers, hubris 
+Topic 8 Top Words:
+ 	 Highest Prob: chain, supply, service, customer, production, customers, reduce 
+ 	 FREX: warehouse, shipping, warehouses, locations, inventory, logistics, delivery 
+ 	 Lift: replenishment, koster, inbound, warehouses, outbound, routing, shipment 
+ Score: replenishment, warehouses, warehouse, shipment, transported, koster, inbound 
+Topic 9 Top Words:
+ 	 Highest Prob: users, media, internet, personal, online, electronic, interaction 
+ 	 FREX: mouth, posted, interactive, advertising, platforms, twitter, networking 
+ 	 Lift: ewom, wom, bruggen, mayzlin, ofmouth, viral, celebrities 
+ 	 Score: ewom, wom, valence, posted, mouth, ofmouth, mayzlin 
+Topic 10 Top Words:
+ 	 Highest Prob: organizational, competitive, social, academy, team, strategic, firms 
+ 	 FREX: tenure, hambrick, anderson, ceo, roa, miller, ceos 
+ 	 Lift: reeb, boardex, tmt, schulze, zajac, villalonga, successor 
+ 	 Score: reeb, roa, boardex, hambrick, echelons, tmt, finkelstein 
+Topic 11 Top Words:
+ Highest Prob: industries, applications, digital, technologies, architecture, tools, infrastructure 
+ 	 FREX: gartner, automation, architecture, automate, automated, interviewee, cloud 
+ 	 Lift: automate, automating, sensing, mcafee, investigator, iot, immutable 
+ 	 Score: automate, iot, automating, authentication, gartner, scalability, traceability 
+Topic 12 Top Words:
+ 	 Highest Prob: sweden, france, italy, finland, belgium, ireland, poland 
+ 	 FREX: poland, croatia, greece, finland, austria, sweden, luxembourg 
+ 	 Lift: croatia, peru, latvia, cyprus, lithuania, bulgaria, ukraine 
+ 	 Score: croatia, peru, cyprus, colombia, chile, philippines, latvia 
+Topic 13 Top Words:
+ Highest Prob: sustainable, csr, sustainability, responsibility, esg, stakeholder, environmental 
+ 	 FREX: esg, csr, emissions, waste, stakeholder, sustainability, ethical 
+ 	 Lift: serafeim, esg, brammer, kld, margolis, sri, horst 
+ 	 Score: esg, kld, serafeim, brammer, msci, sri, mcwilliams 
+Topic 14 Top Words:
+ 	 Highest Prob: items, scales, anova, item, gender, cronbach, square 
+ 	 FREX: anova, cronbach, convenience, qualtrics, likert, demographics, scales 
+ 	 Lift: asymp, nudges, nudge, nudging, recoding, fictitious, attitudinal 
+ 	 Score: birks, sphericity, randomization, recoded, ancova, communalities, nudges 
+Topic 15 Top Words:
+ 	 Highest Prob: technology, degree, resources, deals, rests, experience, innovation 
+ 	 FREX: ipo, hellmann, capitalists, ipos, acquisitions, exits, venturing 
+ 	 Lift: hellmann, vcs, puri, professionalization, abe, exits, tian 
+ 	 Score: hellmann, ipos, gompers, puri, vc, capitalists, capitalist 
+Topic 16 Top Words:
+ 	 Highest Prob: completed, hypothesis, testing, regression, answers, decrease, rsm 
+ 	 FREX: hbo, havo, vwo, mbo, wo, mediated, facebook 
+ 	 Lift: havo, vwo, residing, wo, ave, artikel, persoonlijke 
+ 	 Score: vwo, havo, wo, hbo, mbo, artikel, ave 
+Topic 17 Top Words:
+ 	 Highest Prob: cash, tend, capital, firm, growth, hand, firms 
+ 	 FREX: myers, pecking, majluf, dividends, bankruptcy, compustat, debt 
+ 	 Lift: goyal, modigliani, tangibility, pecking, shield, scharfstein, leary 
+ 	 Score: pecking, majluf, modigliani, compustat, goyal, shield, dividends 
+Topic 18 Top Words:
+ 	 Highest Prob: algorithms, classifiers, vector, networks, algorithm, prediction, false 
+ 	 FREX: classifiers, vector, neural, algorithms, algorithm, classifier, trained 
+ 	 Lift: classifiers, classifier, roc, unsupervised, gradient, svm, folds 
+ 	 Score: classifiers, classifier, roc, gradient, svm, unsupervised, neural 
+Topic 19 Top Words:
+ Highest Prob: consumption, regression, policy, countries, indicator, caused, percentage 
+ 	 FREX: cpi, consumption, gdp, heteroscedasticity, breusch, unemployment, inflation 
+ 	 Lift: cpi, recessions, godfrey, reforms, ecb, overestimation, ps 
+ 	 Score: cpi, breusch, pagan, stationary, recessions, shocks, lags 
+Topic 20 Top Words:
+ 	 Highest Prob: policies, weeks, emphasis, belief, assessing, meetings, respect 
+ 	 FREX: iterative, maken, documentation, legacy, exercised, departments, carrying 
+ 	 Lift: doelen, hanging, collaboratively, externe, corley, headquartered, corroborate 
+ 	 Score: maken, doelen, doel, samenwerking, tijd, rigor, goed 
+Topic 21 Top Words:
+ 	 Highest Prob: executive, contribute, department, recent, divided, growth, academic 
+ 	 FREX: jing, zhao, shareholder, ceos, debt, earnings, ceo 
+ 	 Lift: jing, listwise, kld, contemporaneous, discontinuity, signifying, bebchuk 
+ 	 Score: jing, kld, listwise, compustat, ceos, logarithm, roa 
+Topic 22 Top Words:
+ 	 Highest Prob: cooperation, interact, abide, contexts, functions, relates, simple 
+ 	 FREX: abide, micro, textile, intertwined, mode, joining, distributions 
+ 	 Lift: abide, textile, marketable, trustful, triangulated, interrelationships, inflows 
+ 	 Score: abide, textile, triangulated, inflows, gulati, trustful, opportunism 
+Topic 23 Top Words:
+ Highest Prob: bitcoin, cryptocurrency, cryptocurrencies, cryptography, blockchain, trading, coin 
+ FREX: cryptocurrencies, bitcoin, ethereum, cryptography, cryptocurrency, nakamoto, blockchains 
+ Lift: bitcoins, ethereum, nakamoto, crypto, cryptocurrencies, cryptocurrency, blockchains 
+ Score: cryptocurrency, ethereum, bitcoin, cryptocurrencies, cryptography, bitcoins, nakamoto 
+Topic 24 Top Words:
+ 	 Highest Prob: average, experiment, consumer, behavior, account, statistics, previous 
+ FREX: visit, advertisements, banner, experiments, experiment, advertisement, shopping 
+ 	 Lift: banner, hauser, ghose, funnel, clicked, visitor, browsing 
+ 	 Score: banner, browsing, clicks, webpage, ghose, advertisements, clicked 
+Topic 25 Top Words:
+ 	 Highest Prob: eagly, male, correlation, psychological, person, analyses, perceived 
+ 	 FREX: eagly, bulletin, sex, male, masculine, stereotypes, stereotype 
+ 	 Lift: eagly, masculine, stereotype, stereotypes, applicants, feminine, prejudice 
+ 	 Score: eagly, stereotypes, stereotype, masculine, communality, prejudice, feminine 
+Topic 26 Top Words:
+ Highest Prob: insiders, shareholders, governance, political, securities, perspective, academic 
+ 	 FREX: insiders, securities, creditors, repurchases, earnings, jensen, debt 
+ 	 Lift: repurchases, anglo, bebchuk, creditors, starks, insiders, sachs 
+ 	 Score: repurchases, wrds, creditors, insiders, compustat, bebchuk, starks 
+Topic 27 Top Words:
+ Highest Prob: logistics, handling, structured, interviewed, interview, interviewees, collaboration 
+ 	 FREX: sea, port, logistics, interviewees, interviewed, chains, ports 
+ 	 Lift: vessels, vessel, maritime, terminals, ports, rail, ships 
+ 	 Score: ports, vessel, rail, terminals, ships, vessels, port 
+Topic 28 Top Words:
+ 	 Highest Prob: considerable, depicted, assessment, criteria, learning, output, pre 
+ 	 FREX: impaired, mart, characterised, tacit, viable, modelling, thompson 
+ 	 Lift: impaired, levitt, kogut, codified, engagements, barkema, biotech 
+ 	 Score: impaired, kogut, barkema, levinthal, gulati, codified, absorptive 
+Topic 29 Top Words:
+ 	 Highest Prob: allowed, studied, relevance, hypotheses, hypothesis, lastly, recent 
+ 	 FREX: conf, homogeneity, occupy, anova, minute, trajectories, season 
+ 	 Lift: conf, occupy, enlarging, injury, wearing, trajectories, paste 
+ 	 Score: conf, occupy, wearing, trajectories, injury, cameras, enlarging 
+Topic 30 Top Words:
+ Highest Prob: moderating, chosen, strategic, firms, organization, employees, knowledge 
+ FREX: antecedents, moderators, innovativeness, capability, innovate, moderating, horizontal 
+ 	 Lift: edged, sword, tushman, absorptive, volberda, levinthal, zollo 
+ 	 Score: edged, absorptive, levinthal, zollo, sword, zahra, tushman 
+Topic 31 Top Words:
+ Highest Prob: demotivating, gender, preferences, students, psychology, statements, compare 
+ 	 FREX: demotivating, respondent, feels, students, disagree, regret, likert 
+ 	 Lift: demotivating, todd, regret, simonson, disappointment, assortment, holbrook 
+ 	 Score: demotivating, regret, todd, simonson, assortment, disappointment, overload 
+Topic 32 Top Words:
+ 	 Highest Prob: cultural, union, tax, law, hypothesis, countries, recent 
+ 	 FREX: turkey, portugal, italy, union, tax, france, oecd 
+ 	 Lift: differentials, bilateral, internationalization, barkema, gb, massa, fr 
+ 	 Score: orbis, portugal, differentials, greece, internationalization, barkema, turkey 
+Topic 33 Top Words:
+ 	 Highest Prob: survey, erasmus, shown, ensure, liable, appendix, average 
+ FREX: superiors, questionnaire, disagree, demographic, instructions, mediation, styles 
+ 	 Lift: superiors, groundwork, accomplishments, detached, stam, lowe, subordinates 
+ 	 Score: superiors, stam, subordinates, ancova, accomplishments, instruction, police 
+Topic 34 Top Words:
+ 	 Highest Prob: cronbach, alpha, sciences, concern, extracted, html, constructs 
+ 	 FREX: ave, mediated, cronbach, convergent, discriminant, shopping, tam 
+ 	 Lift: ave, sem, pls, straub, larcker, tam, hackers 
+ 	 Score: ave, tam, larcker, hackers, unauthorized, convergent, sem 
+Topic 35 Top Words:
+ 	 Highest Prob: satisfied, fill, text, person, shaped, desired, social 
+ 	 FREX: discontinuity, minimizes, successes, satisfied, htm, negotiation, ubiquitous 
+ 	 Lift: discontinuity, reliabilities, cnn, kauffman, srinivasan, spur, incapable 
+ 	 Score: discontinuity, reliabilities, ave, serafeim, ubiquitous, margolis, srinivasan 
+Topic 36 Top Words:
+ 	 Highest Prob: stakeholder, structures, researcher, flexible, technical, success, sense 
+ 	 FREX: ti, yin, interviewed, societal, coding, stakeholder, transcribed 
+ 	 Lift: nrc, delft, visionary, chaotic, axial, replicable, volkskrant 
+ 	 Score: municipality, axial, ti, zaken, atlas, skype, transcribed 
+Topic 37 Top Words:
+ 	 Highest Prob: acquisition, deals, play, plays, announcement, shareholder, influences 
+ 	 FREX: announcement, takeover, shareholder, announced, merger, mergers, deals 
+ 	 Lift: eventus, tmt, narcissism, zajac, crossborder, donaldson, unfortunate 
+ 	 Score: eventus, acquirers, acquirer, takeover, moeller, tmt, crossborder 
+Topic 38 Top Words:
+ 	 Highest Prob: government, csr, united, ethics, societal, financial, activities 
+ 	 FREX: csr, legitimacy, societal, philanthropy, planet, ethics, partnerships 
+ 	 Lift: irresponsible, philanthropy, donated, greenwashing, volunteering, injustice, ngos 
+ 	 Score: philanthropy, irresponsible, donated, ngos, donations, volunteering, charity 
+Topic 39 Top Words:
+ 	 Highest Prob: regression, predicted, error, patterns, random, statistical, interval 
+ 	 FREX: mae, seasonal, seasonality, rmse, forecasts, modeling, interval 
+ 	 Lift: mae, rmse, nn, autoregressive, polynomial, weekdays, wednesday 
+ 	 Score: mae, rmse, seasonal, autoregressive, seasonality, forecasted, nn 
+Topic 40 Top Words:
+ 	 Highest Prob: talk, interviews, coding, qualitative, researcher, feeling, creation 
+ 	 FREX: passion, inspiration, transcript, theme, talking, coding, interviewed 
+ 	 Lift: informally, fantastic, passionate, yeah, guys, happier, unhappy 
+ 	 Score: yeah, stuff, guys, transcript, saturation, passion, sexual 
+Topic 41 Top Words:
+ 	 Highest Prob: past, statistics, increasing, caused, rsm, increased, identified 
+ 	 FREX: occurring, betting, kahneman, induce, misses, nasa, gambling 
+ 	 Lift: betting, nasa, misses, catastrophic, tale, gambling, shortcuts 
+ 	 Score: betting, nasa, tale, misses, slot, gambling, catastrophic 
+Topic 42 Top Words:
+ 	 Highest Prob: gdpr, breach, policies, integrity, regulation, union, annual 
+ 	 FREX: gdpr, breach, breaches, hackers, laid, consent, identifiable 
+ 	 Lift: hackers, safeguards, breaches, stolen, portability, hacking, controllers 
+ 	 Score: hackers, breaches, gdpr, unauthorized, stolen, hacking, controllers 
+Topic 43 Top Words:
+ 	 Highest Prob: errors, occurs, search, operate, possibly, positively, location 
+ 	 FREX: gemeente, developer, cities, inhabitants, municipality, prevented, consultation 
+ 	 Lift: gemeente, district, ministerie, blend, kilometers, inhabitants, nederlands 
+ 	 Score: gemeente, ministerie, municipality, district, rol, risico, blend 
+Topic 44 Top Words:
+ 	 Highest Prob: suitable, questions, individuals, check, explanation, people, personal 
+ 	 FREX: burt, excellent, johnson, flexibility, developmental, integrity, origins 
+ 	 Lift: burt, cummings, rousseau, catching, obscure, fp, higgins 
+ 	 Score: burt, higgins, futures, catching, cummings, rousseau, fp 
+Topic 45 Top Words:
+ 	 Highest Prob: outflow, indication, manage, reflected, viewed, ownership, practices 
+ 	 FREX: outflow, executives, kong, directors, dijk, eps, moderators 
+ 	 Lift: outflow, eps, malaysian, shareholdings, outperformance, serafeim, inflow 
+ 	 Score: outflow, eps, outperformance, orbis, shareholdings, haleblian, serafeim 
+Topic 46 Top Words:
+ 	 Highest Prob: farmers, agricultural, producers, adopted, certification, certified, food 
+ 	 FREX: farmers, crop, farming, certified, farmer, traceability, certification 
+ 	 Lift: crop, seeds, farming, soil, harvest, farmers, crops 
+ 	 Score: farmers, seeds, crop, farming, traceability, farmer, harvest 
+Topic 47 Top Words:
+ Highest Prob: anniversary, correlation, correlations, marketing, error, confirmed, consumer 
+ 	 FREX: anniversary, completing, neutral, sunday, amsterdam, birthday, familiarity 
+ 	 Lift: anniversary, birthday, sunday, mackenzie, subscriptions, evening, afterward 
+ 	 Score: anniversary, birthday, mackenzie, clicks, saturday, sunday, evening 
+Topic 48 Top Words:
+ 	 Highest Prob: friends, negatively, active, decrease, application, offer, successful 
+ 	 FREX: android, apps, facebook, video, advertisement, functionality, images 
+ 	 Lift: android, rodrigo, belo, personalize, churn, quadratic, unlock 
+ 	 Score: android, personalize, gaming, rodrigo, quadratic, belo, apps 
+Topic 49 Top Words:
+ 	 Highest Prob: monetary, panel, institutions, variability, partially, index, approximately 
+ 	 FREX: socio, gdp, loans, loan, expenditure, dc, fiscal 
+ 	 Lift: neoclassical, deposit, imf, unions, neo, deteriorated, borrowers 
+ 	 Score: neoclassical, deposit, imf, unions, aftermath, deteriorated, lagged 
+Topic 50 Top Words:
+ 	 Highest Prob: erode, trends, investments, primary, firms, potentially, partially 
+ FREX: erode, acquisitions, operationalization, mergers, sophisticated, evolving, broaden 
+ 	 Lift: erode, rigidity, discontinuous, fintech, pisano, pending, mb 
+ 	 Score: erode, rigidity, fintech, holdings, diff, zephyr, mergers 
+Topic 51 Top Words:
+ 	 Highest Prob: controlled, impacts, remain, conceptual, gap, suggested, policy 
+ 	 FREX: barth, gas, competitiveness, auditing, tons, chemical, electronics 
+ 	 Lift: barth, controllers, ghg, mishra, statically, brammer, dioxide 
+ 	 Score: barth, controllers, eps, ghg, brammer, dioxide, tons 
+Topic 52 Top Words:
+ 	 Highest Prob: raw, material, hours, pet, changed, figures, materials 
+ 	 FREX: pet, sourcing, supplier, buyer, pm, brands, clean 
+ 	 Lift: pet, durability, bottles, telegraph, heineken, cat, ingredient 
+ 	 Score: pet, sick, bottles, procurement, meals, ingredient, drink 
+Topic 53 Top Words:
+ 	 Highest Prob: leader, alternative, motivation, perception, tendency, leadership, ideas 
+ 	 FREX: ei, exciting, leader, deducted, static, yellow, blocking 
+ 	 Lift: ei, pump, blocking, jacoby, exiting, sparks, shane 
+ 	 Score: ei, blocking, pump, shane, attitudinal, collaboratively, lerner 
+Topic 54 Top Words:
+ 	 Highest Prob: hygiene, suitable, methodology, additionally, avoid, ensure, establish 
+ 	 FREX: hygiene, colour, evaluations, enjoyment, eat, sig, green 
+ 	 Lift: hygiene, elbow, grab, smoking, phrasing, nineteen, evoking 
+ 	 Score: hygiene, colour, evoking, eat, enjoyment, ancova, unhealthy 
+Topic 55 Top Words:
+ 	 Highest Prob: efficiency, dummy, driven, reduce, finding, types, decrease 
+ 	 FREX: buyouts, ebitda, survivorship, closed, lerner, kaplan, dropped 
+ 	 Lift: buyouts, ebitda, survivorship, seasoned, staged, wilcoxon, kernel 
+ 	 Score: buyouts, survivorship, ebitda, ipos, thomsonone, underperformance, lerner 
+Topic 56 Top Words:
+ 	 Highest Prob: partner, linear, online, experiences, simple, processes, final 
+ 	 FREX: couples, partner, marriage, partners, love, mutually, feelings 
+ 	 Lift: couples, netflix, marriage, married, subscriptions, underrepresentation, affection 
+ 	 Score: couples, marriage, affection, netflix, relatives, married, dissatisfaction 
+Topic 57 Top Words:
+ Highest Prob: fortune, relations, stakeholder, baker, environmental, reputations, reputation 
+ 	 FREX: reputations, baker, fortune, csr, nuclear, electric, asian 
+ 	 Lift: anglo, reputations, nuclear, pakistan, berens, minorities, profiting 
+ 	 Score: anglo, reputations, kld, ferreira, compustat, minorities, execucomp 
+Topic 58 Top Words:
+ 	 Highest Prob: displayed, condition, lowest, revealed, leading, rise, chapter 
+ 	 FREX: atkinson, trial, societal, occupation, coherent, moderation, nominal 
+ 	 Lift: atkinson, sr, prosperous, sj, contemplate, greenberg, goodman 
+ 	 Score: atkinson, higgins, communalities, sj, prosperous, crane, extraneous 
+Topic 59 Top Words:
+ 	 Highest Prob: image, association, choose, lending, base, human, investigation 
+ 	 FREX: lending, debts, quantitatively, pays, waiting, loans, bonds 
+ 	 Lift: debts, borrowers, mishra, serafeim, counterparty, reconciliation, discern 
+ 	 Score: debts, lending, serafeim, borrowers, reconciliation, jing, borrow 
+Topic 60 Top Words:
+ 	 Highest Prob: mann, ieee, discriminant, professionals, nuclear, convergent, mis 
+ 	 FREX: escalate, plug, mann, keil, escalation, nuclear, discriminant 
+ 	 Lift: escalate, keil, escalation, sunk, nuclear, prototypes, plug 
+ 	 Score: escalation, keil, escalate, sunk, pca, plug, convergent 
+
+
